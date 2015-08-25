@@ -1,0 +1,10 @@
+{
+	"name": "ogl",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2015, afaur",
+	"authors": ["afaur"],
+	"dependencies": {
+		"derelict-glfw3": "*",
+		"derelict-gl3": "*"
+	}
+}
